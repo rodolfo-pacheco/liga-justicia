@@ -1,0 +1,11 @@
+{
+    "gitlens.codeLens.enabled": false,
+    "gitlens.codeLens.scopes": [
+        "document",
+        "containers",
+        "blocks"
+    ],
+    "gitlens.codeLens.symbolScopes": [
+        "*.md"
+    ]
+}
